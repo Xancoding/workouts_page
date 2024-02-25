@@ -25,7 +25,7 @@ env:
   ATHLETE: 叫我小张就好
   TITLE: Workouts
   MIN_GRID_DISTANCE: 20 # change min distance here
-  TITLE_GRID: Over 10km Workouts # also here
+  TITLE_GRID: Over 20km Workouts # also here
   GITHUB_NAME: Xancoding  # change to yours
   GITHUB_EMAIL: 2439835570@qq.com # change to yours
 
