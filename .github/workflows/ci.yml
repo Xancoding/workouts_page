@@ -24,5 +24,8 @@ jobs:
         run: |
           pip install -r requirements-dev.txt
 
+      - name: Format with Black
+        run: black .
       - name: Check formatting (black)
         run: black . --check
+      
