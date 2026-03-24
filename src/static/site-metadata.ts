@@ -12,14 +12,14 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://xancoding.cn/',
+  siteUrl: 'https://xancoding.github.io/',
   logo: 'https://bu.dusays.com/2023/04/29/644cd8c3b45b9.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://xancoding.cn/',
+      url: 'https://xancoding.github.io/',
     },
     {
       name: 'About',
